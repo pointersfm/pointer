@@ -1,0 +1,2 @@
+# pointer
+i dont know
